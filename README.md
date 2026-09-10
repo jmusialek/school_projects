@@ -3,4 +3,5 @@
 <ul>
 <li><a href="intro_html/index.html" target="blank_"> Juiced Up Pinball! HTML Intro </a> </li>
 <li><a href="html5_css/index.html" target="blank_"> The Binding Of Isaac: Rebirth! HTML5 and CSS </a> </li>
+<li><a href="adv_css/index.html" target="blank_"> TBOI, Advanced CSS! </a> </li>
 <ul>
