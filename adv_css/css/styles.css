@@ -57,7 +57,7 @@ font-size: 25px;
 text-decoration: none;
 border-radius: 10px;
 border:2px solid #795c34;}
-nav li a {
+nav li a :hover{
     color:#d39032;
     background-color:#372813;
 }
