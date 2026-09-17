@@ -42,7 +42,7 @@ nav li a {
     font-size: 25px;
     border-radius: 10px;
 border:2px solid #795c34;
- margin-top: 10px 0px;
+ margin-top: 10px auto;
 }
 nav li a :hover{
     color:#d39032;
